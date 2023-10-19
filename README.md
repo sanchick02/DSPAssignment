@@ -18,5 +18,5 @@
 - review_title - Short review
 - review_content - Long review
 - img_link - Image Link of the Product
-- product_link - Official Website Link of the Product** *
+- product_link - Official Website Link of the Product
 
